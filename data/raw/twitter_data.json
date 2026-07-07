@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "tweet_0",
+    "text": "Very disappointed with the quality #0",
+    "user_id": "user_35",
+    "created_at": "2025-12-26T18:44:51.393395",
+    "likes": 391,
+    "retweets": 89,
+    "replies": 90,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_1",
+    "text": "Very disappointed with the quality #1",
+    "user_id": "user_1",
+    "created_at": "2025-12-27T18:44:51.393458",
+    "likes": 929,
+    "retweets": 234,
+    "replies": 18,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_2",
+    "text": "Product broke after one day of use #2",
+    "user_id": "user_27",
+    "created_at": "2025-12-24T18:44:51.393486",
+    "likes": 766,
+    "retweets": 171,
+    "replies": 89,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_3",
+    "text": "Excellent experience from start to finish #3",
+    "user_id": "user_20",
+    "created_at": "2026-01-15T18:44:51.393506",
+    "likes": 256,
+    "retweets": 163,
+    "replies": 75,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "positive"
+  },
+  {
+    "id": "tweet_4",
+    "text": "Very disappointed with the quality #4",
+    "user_id": "user_36",
+    "created_at": "2025-12-24T18:44:51.393548",
+    "likes": 215,
+    "retweets": 413,
+    "replies": 36,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_5",
+    "text": "Complete waste of money #5",
+    "user_id": "user_9",
+    "created_at": "2025-12-31T18:44:51.393571",
+    "likes": 740,
+    "retweets": 274,
+    "replies": 34,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_6",
+    "text": "Worst customer service I've ever had #6",
+    "user_id": "user_43",
+    "created_at": "2026-01-02T18:44:51.393587",
+    "likes": 479,
+    "retweets": 288,
+    "replies": 93,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_7",
+    "text": "Excellent experience from start to finish #7",
+    "user_id": "user_7",
+    "created_at": "2026-01-01T18:44:51.393604",
+    "likes": 132,
+    "retweets": 136,
+    "replies": 87,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "positive"
+  },
+  {
+    "id": "tweet_8",
+    "text": "Best service ever! Highly recommend! #8",
+    "user_id": "user_32",
+    "created_at": "2025-12-29T18:44:51.393620",
+    "likes": 794,
+    "retweets": 230,
+    "replies": 49,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "positive"
+  },
+  {
+    "id": "tweet_9",
+    "text": "Best service ever! Highly recommend! #9",
+    "user_id": "user_6",
+    "created_at": "2026-01-21T18:44:51.393634",
+    "likes": 929,
+    "retweets": 339,
+    "replies": 96,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "positive"
+  },
+  {
+    "id": "tweet_10",
+    "text": "Looking at product reviews #10",
+    "user_id": "user_9",
+    "created_at": "2025-12-29T18:44:51.393651",
+    "likes": 464,
+    "retweets": 329,
+    "replies": 36,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_11",
+    "text": "Just tried the new product and it's amazing! #11",
+    "user_id": "user_4",
+    "created_at": "2025-12-29T18:44:51.393667",
+    "likes": 755,
+    "retweets": 64,
+    "replies": 43,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "positive"
+  },
+  {
+    "id": "tweet_12",
+    "text": "Just tried the new product and it's amazing! #12",
+    "user_id": "user_49",
+    "created_at": "2026-01-06T18:44:51.393683",
+    "likes": 142,
+    "retweets": 124,
+    "replies": 49,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "positive"
+  },
+  {
+    "id": "tweet_13",
+    "text": "Excellent experience from start to finish #13",
+    "user_id": "user_19",
+    "created_at": "2026-01-12T18:44:51.393697",
+    "likes": 373,
+    "retweets": 471,
+    "replies": 9,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "positive"
+  },
+  {
+    "id": "tweet_14",
+    "text": "Just tried the new product and it's amazing! #14",
+    "user_id": "user_45",
+    "created_at": "2026-01-01T18:44:51.393711",
+    "likes": 823,
+    "retweets": 500,
+    "replies": 60,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "positive"
+  },
+  {
+    "id": "tweet_15",
+    "text": "Complete waste of money #15",
+    "user_id": "user_12",
+    "created_at": "2026-01-06T18:44:51.393725",
+    "likes": 90,
+    "retweets": 231,
+    "replies": 25,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_16",
+    "text": "Very disappointed with the quality #16",
+    "user_id": "user_30",
+    "created_at": "2025-12-25T18:44:51.393739",
+    "likes": 816,
+    "retweets": 339,
+    "replies": 72,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_17",
+    "text": "The product arrived today #17",
+    "user_id": "user_11",
+    "created_at": "2026-01-05T18:44:51.393753",
+    "likes": 206,
+    "retweets": 250,
+    "replies": 33,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_18",
+    "text": "Excellent experience from start to finish #18",
+    "user_id": "user_8",
+    "created_at": "2026-01-18T18:44:51.393769",
+    "likes": 895,
+    "retweets": 36,
+    "replies": 11,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "positive"
+  },
+  {
+    "id": "tweet_19",
+    "text": "Best service ever! Highly recommend! #19",
+    "user_id": "user_22",
+    "created_at": "2026-01-02T18:44:51.393783",
+    "likes": 734,
+    "retweets": 262,
+    "replies": 80,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "positive"
+  },
+  {
+    "id": "tweet_20",
+    "text": "Looking at product reviews #20",
+    "user_id": "user_34",
+    "created_at": "2026-01-11T18:44:51.393797",
+    "likes": 22,
+    "retweets": 394,
+    "replies": 53,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_21",
+    "text": "The product arrived today #21",
+    "user_id": "user_9",
+    "created_at": "2026-01-12T18:44:51.393811",
+    "likes": 57,
+    "retweets": 209,
+    "replies": 41,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_22",
+    "text": "Couldn't be happier with the results! #22",
+    "user_id": "user_27",
+    "created_at": "2025-12-24T18:44:51.393832",
+    "likes": 41,
+    "retweets": 108,
+    "replies": 50,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "positive"
+  },
+  {
+    "id": "tweet_23",
+    "text": "Excellent experience from start to finish #23",
+    "user_id": "user_46",
+    "created_at": "2025-12-25T18:44:51.393850",
+    "likes": 978,
+    "retweets": 89,
+    "replies": 76,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "positive"
+  },
+  {
+    "id": "tweet_24",
+    "text": "Complete waste of money #24",
+    "user_id": "user_30",
+    "created_at": "2026-01-10T18:44:51.393865",
+    "likes": 593,
+    "retweets": 437,
+    "replies": 53,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_25",
+    "text": "Just received my order #25",
+    "user_id": "user_3",
+    "created_at": "2026-01-13T18:44:51.393880",
+    "likes": 294,
+    "retweets": 296,
+    "replies": 47,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_26",
+    "text": "Looking at product reviews #26",
+    "user_id": "user_26",
+    "created_at": "2025-12-30T18:44:51.393895",
+    "likes": 333,
+    "retweets": 497,
+    "replies": 1,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_27",
+    "text": "Just received my order #27",
+    "user_id": "user_49",
+    "created_at": "2026-01-04T18:44:51.393910",
+    "likes": 326,
+    "retweets": 154,
+    "replies": 85,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_28",
+    "text": "Checking out the new update #28",
+    "user_id": "user_6",
+    "created_at": "2026-01-09T18:44:51.393925",
+    "likes": 688,
+    "retweets": 478,
+    "replies": 32,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_29",
+    "text": "Very disappointed with the quality #29",
+    "user_id": "user_24",
+    "created_at": "2025-12-31T18:44:51.393939",
+    "likes": 86,
+    "retweets": 75,
+    "replies": 22,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_30",
+    "text": "Looking at product reviews #30",
+    "user_id": "user_11",
+    "created_at": "2026-01-12T18:44:51.393954",
+    "likes": 960,
+    "retweets": 466,
+    "replies": 35,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_31",
+    "text": "Product broke after one day of use #31",
+    "user_id": "user_28",
+    "created_at": "2025-12-29T18:44:51.393968",
+    "likes": 496,
+    "retweets": 335,
+    "replies": 70,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_32",
+    "text": "Worst customer service I've ever had #32",
+    "user_id": "user_27",
+    "created_at": "2025-12-31T18:44:51.393986",
+    "likes": 355,
+    "retweets": 487,
+    "replies": 31,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_33",
+    "text": "Complete waste of money #33",
+    "user_id": "user_8",
+    "created_at": "2026-01-20T18:44:51.394002",
+    "likes": 440,
+    "retweets": 485,
+    "replies": 81,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_34",
+    "text": "Checking out the new update #34",
+    "user_id": "user_28",
+    "created_at": "2026-01-04T18:44:51.394016",
+    "likes": 294,
+    "retweets": 100,
+    "replies": 65,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_35",
+    "text": "Very disappointed with the quality #35",
+    "user_id": "user_16",
+    "created_at": "2025-12-24T18:44:51.394030",
+    "likes": 799,
+    "retweets": 45,
+    "replies": 14,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_36",
+    "text": "Very disappointed with the quality #36",
+    "user_id": "user_25",
+    "created_at": "2025-12-22T18:44:51.394044",
+    "likes": 901,
+    "retweets": 145,
+    "replies": 100,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_37",
+    "text": "Excellent experience from start to finish #37",
+    "user_id": "user_31",
+    "created_at": "2026-01-07T18:44:51.394059",
+    "likes": 596,
+    "retweets": 20,
+    "replies": 40,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "positive"
+  },
+  {
+    "id": "tweet_38",
+    "text": "Looking at product reviews #38",
+    "user_id": "user_14",
+    "created_at": "2025-12-23T18:44:51.394073",
+    "likes": 124,
+    "retweets": 245,
+    "replies": 56,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_39",
+    "text": "The product arrived today #39",
+    "user_id": "user_6",
+    "created_at": "2026-01-16T18:44:51.394088",
+    "likes": 690,
+    "retweets": 445,
+    "replies": 22,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_40",
+    "text": "Just received my order #40",
+    "user_id": "user_7",
+    "created_at": "2026-01-03T18:44:51.394102",
+    "likes": 77,
+    "retweets": 499,
+    "replies": 7,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_41",
+    "text": "Looking at product reviews #41",
+    "user_id": "user_4",
+    "created_at": "2025-12-27T18:44:51.394122",
+    "likes": 361,
+    "retweets": 163,
+    "replies": 21,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_42",
+    "text": "Just tried the new product and it's amazing! #42",
+    "user_id": "user_18",
+    "created_at": "2025-12-27T18:44:51.394136",
+    "likes": 596,
+    "retweets": 405,
+    "replies": 6,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "positive"
+  },
+  {
+    "id": "tweet_43",
+    "text": "Just received my order #43",
+    "user_id": "user_42",
+    "created_at": "2026-01-21T18:44:51.394152",
+    "likes": 186,
+    "retweets": 256,
+    "replies": 57,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_44",
+    "text": "Complete waste of money #44",
+    "user_id": "user_18",
+    "created_at": "2026-01-02T18:44:51.394166",
+    "likes": 683,
+    "retweets": 494,
+    "replies": 8,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_45",
+    "text": "Considering this product #45",
+    "user_id": "user_38",
+    "created_at": "2026-01-02T18:44:51.394182",
+    "likes": 326,
+    "retweets": 292,
+    "replies": 74,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_46",
+    "text": "Terrible experience, would not recommend #46",
+    "user_id": "user_49",
+    "created_at": "2026-01-19T18:44:51.394197",
+    "likes": 82,
+    "retweets": 371,
+    "replies": 56,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_47",
+    "text": "Terrible experience, would not recommend #47",
+    "user_id": "user_20",
+    "created_at": "2026-01-03T18:44:51.394211",
+    "likes": 50,
+    "retweets": 420,
+    "replies": 19,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_48",
+    "text": "Product broke after one day of use #48",
+    "user_id": "user_26",
+    "created_at": "2025-12-22T18:44:51.394225",
+    "likes": 515,
+    "retweets": 159,
+    "replies": 37,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_49",
+    "text": "Considering this product #49",
+    "user_id": "user_37",
+    "created_at": "2026-01-19T18:44:51.394239",
+    "likes": 97,
+    "retweets": 74,
+    "replies": 69,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_50",
+    "text": "Excellent experience from start to finish #50",
+    "user_id": "user_20",
+    "created_at": "2026-01-17T18:44:51.394254",
+    "likes": 645,
+    "retweets": 213,
+    "replies": 36,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "positive"
+  },
+  {
+    "id": "tweet_51",
+    "text": "Considering this product #51",
+    "user_id": "user_37",
+    "created_at": "2026-01-03T18:44:51.394268",
+    "likes": 473,
+    "retweets": 0,
+    "replies": 38,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_52",
+    "text": "Considering this product #52",
+    "user_id": "user_31",
+    "created_at": "2026-01-08T18:44:51.394283",
+    "likes": 346,
+    "retweets": 172,
+    "replies": 51,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_53",
+    "text": "Best service ever! Highly recommend! #53",
+    "user_id": "user_46",
+    "created_at": "2026-01-10T18:44:51.394298",
+    "likes": 231,
+    "retweets": 379,
+    "replies": 0,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "positive"
+  },
+  {
+    "id": "tweet_54",
+    "text": "Couldn't be happier with the results! #54",
+    "user_id": "user_29",
+    "created_at": "2025-12-25T18:44:51.394311",
+    "likes": 493,
+    "retweets": 159,
+    "replies": 48,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "positive"
+  },
+  {
+    "id": "tweet_55",
+    "text": "Best service ever! Highly recommend! #55",
+    "user_id": "user_15",
+    "created_at": "2026-01-20T18:44:51.394326",
+    "likes": 16,
+    "retweets": 169,
+    "replies": 44,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "positive"
+  },
+  {
+    "id": "tweet_56",
+    "text": "Love this new feature! Great job team! #56",
+    "user_id": "user_22",
+    "created_at": "2026-01-08T18:44:51.394340",
+    "likes": 765,
+    "retweets": 403,
+    "replies": 38,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "positive"
+  },
+  {
+    "id": "tweet_57",
+    "text": "Considering this product #57",
+    "user_id": "user_33",
+    "created_at": "2026-01-15T18:44:51.394358",
+    "likes": 976,
+    "retweets": 256,
+    "replies": 14,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_58",
+    "text": "Complete waste of money #58",
+    "user_id": "user_25",
+    "created_at": "2026-01-04T18:44:51.394374",
+    "likes": 548,
+    "retweets": 325,
+    "replies": 63,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_59",
+    "text": "The product arrived today #59",
+    "user_id": "user_6",
+    "created_at": "2026-01-14T18:44:51.394389",
+    "likes": 765,
+    "retweets": 308,
+    "replies": 60,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_60",
+    "text": "Just received my order #60",
+    "user_id": "user_35",
+    "created_at": "2026-01-05T18:44:51.394404",
+    "likes": 581,
+    "retweets": 75,
+    "replies": 90,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_61",
+    "text": "Worst customer service I've ever had #61",
+    "user_id": "user_28",
+    "created_at": "2025-12-22T18:44:51.394418",
+    "likes": 538,
+    "retweets": 260,
+    "replies": 45,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_62",
+    "text": "Couldn't be happier with the results! #62",
+    "user_id": "user_25",
+    "created_at": "2025-12-27T18:44:51.394436",
+    "likes": 532,
+    "retweets": 127,
+    "replies": 82,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "positive"
+  },
+  {
+    "id": "tweet_63",
+    "text": "Very disappointed with the quality #63",
+    "user_id": "user_11",
+    "created_at": "2025-12-30T18:44:51.394453",
+    "likes": 400,
+    "retweets": 314,
+    "replies": 0,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_64",
+    "text": "Very disappointed with the quality #64",
+    "user_id": "user_19",
+    "created_at": "2026-01-17T18:44:51.394468",
+    "likes": 783,
+    "retweets": 25,
+    "replies": 43,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_65",
+    "text": "Complete waste of money #65",
+    "user_id": "user_13",
+    "created_at": "2026-01-05T18:44:51.394488",
+    "likes": 387,
+    "retweets": 494,
+    "replies": 6,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_66",
+    "text": "Product broke after one day of use #66",
+    "user_id": "user_49",
+    "created_at": "2025-12-31T18:44:51.394502",
+    "likes": 625,
+    "retweets": 376,
+    "replies": 6,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_67",
+    "text": "Just tried the new product and it's amazing! #67",
+    "user_id": "user_37",
+    "created_at": "2026-01-12T18:44:51.394516",
+    "likes": 905,
+    "retweets": 53,
+    "replies": 64,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "positive"
+  },
+  {
+    "id": "tweet_68",
+    "text": "Complete waste of money #68",
+    "user_id": "user_25",
+    "created_at": "2026-01-14T18:44:51.394530",
+    "likes": 555,
+    "retweets": 67,
+    "replies": 66,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_69",
+    "text": "Considering this product #69",
+    "user_id": "user_32",
+    "created_at": "2026-01-01T18:44:51.394544",
+    "likes": 845,
+    "retweets": 98,
+    "replies": 37,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_70",
+    "text": "Checking out the new update #70",
+    "user_id": "user_39",
+    "created_at": "2026-01-02T18:44:51.394558",
+    "likes": 67,
+    "retweets": 128,
+    "replies": 22,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_71",
+    "text": "Excellent experience from start to finish #71",
+    "user_id": "user_17",
+    "created_at": "2025-12-27T18:44:51.394572",
+    "likes": 807,
+    "retweets": 70,
+    "replies": 61,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "positive"
+  },
+  {
+    "id": "tweet_72",
+    "text": "Just received my order #72",
+    "user_id": "user_18",
+    "created_at": "2026-01-04T18:44:51.394587",
+    "likes": 167,
+    "retweets": 499,
+    "replies": 53,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_73",
+    "text": "Worst customer service I've ever had #73",
+    "user_id": "user_8",
+    "created_at": "2025-12-30T18:44:51.394602",
+    "likes": 599,
+    "retweets": 462,
+    "replies": 90,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_74",
+    "text": "Just received my order #74",
+    "user_id": "user_35",
+    "created_at": "2026-01-13T18:44:51.394615",
+    "likes": 177,
+    "retweets": 257,
+    "replies": 88,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_75",
+    "text": "Complete waste of money #75",
+    "user_id": "user_42",
+    "created_at": "2026-01-20T18:44:51.394629",
+    "likes": 67,
+    "retweets": 328,
+    "replies": 5,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_76",
+    "text": "Love this new feature! Great job team! #76",
+    "user_id": "user_6",
+    "created_at": "2026-01-10T18:44:51.394643",
+    "likes": 558,
+    "retweets": 69,
+    "replies": 85,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "positive"
+  },
+  {
+    "id": "tweet_77",
+    "text": "Very disappointed with the quality #77",
+    "user_id": "user_33",
+    "created_at": "2026-01-01T18:44:51.394662",
+    "likes": 96,
+    "retweets": 211,
+    "replies": 29,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_78",
+    "text": "Looking at product reviews #78",
+    "user_id": "user_48",
+    "created_at": "2025-12-31T18:44:51.394676",
+    "likes": 645,
+    "retweets": 189,
+    "replies": 90,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_79",
+    "text": "Best service ever! Highly recommend! #79",
+    "user_id": "user_41",
+    "created_at": "2025-12-28T18:44:51.394690",
+    "likes": 608,
+    "retweets": 379,
+    "replies": 65,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "positive"
+  },
+  {
+    "id": "tweet_80",
+    "text": "Looking at product reviews #80",
+    "user_id": "user_3",
+    "created_at": "2026-01-19T18:44:51.394704",
+    "likes": 745,
+    "retweets": 268,
+    "replies": 25,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_81",
+    "text": "Checking out the new update #81",
+    "user_id": "user_44",
+    "created_at": "2026-01-19T18:44:51.394718",
+    "likes": 610,
+    "retweets": 242,
+    "replies": 96,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_82",
+    "text": "Couldn't be happier with the results! #82",
+    "user_id": "user_16",
+    "created_at": "2025-12-25T18:44:51.394736",
+    "likes": 264,
+    "retweets": 181,
+    "replies": 8,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "positive"
+  },
+  {
+    "id": "tweet_83",
+    "text": "Complete waste of money #83",
+    "user_id": "user_6",
+    "created_at": "2026-01-17T18:44:51.394751",
+    "likes": 635,
+    "retweets": 302,
+    "replies": 94,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_84",
+    "text": "Worst customer service I've ever had #84",
+    "user_id": "user_21",
+    "created_at": "2026-01-17T18:44:51.394770",
+    "likes": 631,
+    "retweets": 436,
+    "replies": 52,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_85",
+    "text": "Worst customer service I've ever had #85",
+    "user_id": "user_5",
+    "created_at": "2025-12-26T18:44:51.394784",
+    "likes": 565,
+    "retweets": 64,
+    "replies": 95,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_86",
+    "text": "Very disappointed with the quality #86",
+    "user_id": "user_34",
+    "created_at": "2026-01-09T18:44:51.394799",
+    "likes": 635,
+    "retweets": 342,
+    "replies": 30,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_87",
+    "text": "Complete waste of money #87",
+    "user_id": "user_22",
+    "created_at": "2025-12-22T18:44:51.394813",
+    "likes": 969,
+    "retweets": 135,
+    "replies": 68,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_88",
+    "text": "Complete waste of money #88",
+    "user_id": "user_3",
+    "created_at": "2026-01-13T18:44:51.394834",
+    "likes": 962,
+    "retweets": 425,
+    "replies": 81,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_89",
+    "text": "Complete waste of money #89",
+    "user_id": "user_9",
+    "created_at": "2026-01-01T18:44:51.394848",
+    "likes": 811,
+    "retweets": 245,
+    "replies": 27,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_90",
+    "text": "Looking at product reviews #90",
+    "user_id": "user_11",
+    "created_at": "2025-12-30T18:44:51.394862",
+    "likes": 261,
+    "retweets": 24,
+    "replies": 90,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_91",
+    "text": "Love this new feature! Great job team! #91",
+    "user_id": "user_50",
+    "created_at": "2026-01-01T18:44:51.394876",
+    "likes": 111,
+    "retweets": 10,
+    "replies": 37,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "positive"
+  },
+  {
+    "id": "tweet_92",
+    "text": "Best service ever! Highly recommend! #92",
+    "user_id": "user_16",
+    "created_at": "2025-12-24T18:44:51.394895",
+    "likes": 214,
+    "retweets": 329,
+    "replies": 64,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "positive"
+  },
+  {
+    "id": "tweet_93",
+    "text": "Checking out the new update #93",
+    "user_id": "user_19",
+    "created_at": "2026-01-15T18:44:51.394912",
+    "likes": 113,
+    "retweets": 188,
+    "replies": 20,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_94",
+    "text": "Checking out the new update #94",
+    "user_id": "user_47",
+    "created_at": "2025-12-23T18:44:51.394927",
+    "likes": 621,
+    "retweets": 285,
+    "replies": 59,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_95",
+    "text": "Checking out the new update #95",
+    "user_id": "user_30",
+    "created_at": "2026-01-09T18:44:51.394968",
+    "likes": 903,
+    "retweets": 27,
+    "replies": 17,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_96",
+    "text": "Checking out the new update #96",
+    "user_id": "user_40",
+    "created_at": "2026-01-15T18:44:51.394985",
+    "likes": 870,
+    "retweets": 45,
+    "replies": 6,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_97",
+    "text": "Checking out the new update #97",
+    "user_id": "user_23",
+    "created_at": "2026-01-17T18:44:51.395000",
+    "likes": 592,
+    "retweets": 494,
+    "replies": 92,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "tweet_98",
+    "text": "Product broke after one day of use #98",
+    "user_id": "user_37",
+    "created_at": "2025-12-26T18:44:51.395014",
+    "likes": 352,
+    "retweets": 271,
+    "replies": 78,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "negative"
+  },
+  {
+    "id": "tweet_99",
+    "text": "Checking out the new update #99",
+    "user_id": "user_27",
+    "created_at": "2025-12-22T18:44:51.395028",
+    "likes": 857,
+    "retweets": 295,
+    "replies": 16,
+    "hashtags": [
+      "#product",
+      "#review",
+      "#social"
+    ],
+    "platform": "twitter",
+    "sentiment": "neutral"
+  }
+]

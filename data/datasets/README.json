@@ -1,0 +1,40 @@
+{
+  "created_at": "2026-01-21T18:44:51.522077",
+  "total_samples": 90,
+  "sentiment_distribution": {
+    "positive": 32,
+    "negative": 29,
+    "neutral": 29
+  },
+  "datasets": {
+    "train": 62,
+    "validation": 13,
+    "test": 15,
+    "platforms": {
+      "twitter": 13,
+      "facebook": 17,
+      "instagram": 16,
+      "reddit": 29,
+      "general": 15
+    }
+  },
+  "file_structure": {
+    "raw": [
+      "twitter_data.json",
+      "reddit_data.json"
+    ],
+    "processed": [
+      "processed_social_data.csv"
+    ],
+    "labeled": [
+      "training_data.csv",
+      "training_data.json"
+    ],
+    "datasets": [
+      "train.csv",
+      "validation.csv",
+      "test.csv",
+      "combined_dataset.csv"
+    ]
+  }
+}

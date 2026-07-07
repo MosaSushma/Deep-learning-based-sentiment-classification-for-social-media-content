@@ -1,0 +1,362 @@
+[
+  {
+    "text":"I absolutely love this product! It's amazing!",
+    "sentiment":"positive"
+  },
+  {
+    "text":"Excellent service, highly recommended!",
+    "sentiment":"positive"
+  },
+  {
+    "text":"Best purchase I've ever made!",
+    "sentiment":"positive"
+  },
+  {
+    "text":"Fantastic quality and great value for money",
+    "sentiment":"positive"
+  },
+  {
+    "text":"Outstanding customer support!",
+    "sentiment":"positive"
+  },
+  {
+    "text":"Very happy with my decision",
+    "sentiment":"positive"
+  },
+  {
+    "text":"Perfect solution for my needs",
+    "sentiment":"positive"
+  },
+  {
+    "text":"Exceeded all my expectations",
+    "sentiment":"positive"
+  },
+  {
+    "text":"Wonderful experience from start to finish",
+    "sentiment":"positive"
+  },
+  {
+    "text":"Highly impressed with the performance",
+    "sentiment":"positive"
+  },
+  {
+    "text":"Terrible experience, would not recommend",
+    "sentiment":"negative"
+  },
+  {
+    "text":"Worst product I've ever bought",
+    "sentiment":"negative"
+  },
+  {
+    "text":"Complete waste of money",
+    "sentiment":"negative"
+  },
+  {
+    "text":"Very disappointed with the quality",
+    "sentiment":"negative"
+  },
+  {
+    "text":"Poor customer service, rude staff",
+    "sentiment":"negative"
+  },
+  {
+    "text":"Product broke after one day of use",
+    "sentiment":"negative"
+  },
+  {
+    "text":"Not worth the price at all",
+    "sentiment":"negative"
+  },
+  {
+    "text":"Extremely slow delivery",
+    "sentiment":"negative"
+  },
+  {
+    "text":"False advertising, not as described",
+    "sentiment":"negative"
+  },
+  {
+    "text":"Would give zero stars if possible",
+    "sentiment":"negative"
+  },
+  {
+    "text":"The product arrived yesterday",
+    "sentiment":"neutral"
+  },
+  {
+    "text":"I received the package today",
+    "sentiment":"neutral"
+  },
+  {
+    "text":"It works as expected",
+    "sentiment":"neutral"
+  },
+  {
+    "text":"Standard features, nothing special",
+    "sentiment":"neutral"
+  },
+  {
+    "text":"The price seems reasonable",
+    "sentiment":"neutral"
+  },
+  {
+    "text":"Average product for daily use",
+    "sentiment":"neutral"
+  },
+  {
+    "text":"Met the basic requirements",
+    "sentiment":"neutral"
+  },
+  {
+    "text":"It does what it's supposed to do",
+    "sentiment":"neutral"
+  },
+  {
+    "text":"No major issues so far",
+    "sentiment":"neutral"
+  },
+  {
+    "text":"Basic functionality works fine",
+    "sentiment":"neutral"
+  },
+  {
+    "text":"Just tried the new feature #excited",
+    "sentiment":"positive"
+  },
+  {
+    "text":"@company worst support ever #disappointed",
+    "sentiment":"negative"
+  },
+  {
+    "text":"Looking forward to the update #waiting",
+    "sentiment":"neutral"
+  },
+  {
+    "text":"Love the new design! #awesome",
+    "sentiment":"positive"
+  },
+  {
+    "text":"Bug in the latest version #frustrated",
+    "sentiment":"negative"
+  },
+  {
+    "text":"Posted a review on the app #feedback",
+    "sentiment":"neutral"
+  },
+  {
+    "text":"Amazing community support! #grateful",
+    "sentiment":"positive"
+  },
+  {
+    "text":"Server down again #annoyed",
+    "sentiment":"negative"
+  },
+  {
+    "text":"Checking out the new release #curious",
+    "sentiment":"neutral"
+  },
+  {
+    "text":"Best update so far! #impressed",
+    "sentiment":"positive"
+  },
+  {
+    "text":"Highly recommend to others #0",
+    "sentiment":"positive"
+  },
+  {
+    "text":"Great experience with customer service #1",
+    "sentiment":"positive"
+  },
+  {
+    "text":"Excellent value for the price #2",
+    "sentiment":"positive"
+  },
+  {
+    "text":"Very satisfied with the purchase #3",
+    "sentiment":"positive"
+  },
+  {
+    "text":"Product quality is outstanding #4",
+    "sentiment":"positive"
+  },
+  {
+    "text":"Testing the new features #5",
+    "sentiment":"neutral"
+  },
+  {
+    "text":"Would not buy again #6",
+    "sentiment":"negative"
+  },
+  {
+    "text":"Standard delivery time #7",
+    "sentiment":"neutral"
+  },
+  {
+    "text":"Would not buy again #8",
+    "sentiment":"negative"
+  },
+  {
+    "text":"Very satisfied with the purchase #9",
+    "sentiment":"positive"
+  },
+  {
+    "text":"Considering other options #10",
+    "sentiment":"neutral"
+  },
+  {
+    "text":"Terrible user experience #11",
+    "sentiment":"negative"
+  },
+  {
+    "text":"Testing the new features #12",
+    "sentiment":"neutral"
+  },
+  {
+    "text":"Would not buy again #13",
+    "sentiment":"negative"
+  },
+  {
+    "text":"Great experience with customer service #14",
+    "sentiment":"positive"
+  },
+  {
+    "text":"Waste of time and money #15",
+    "sentiment":"negative"
+  },
+  {
+    "text":"Product quality is outstanding #16",
+    "sentiment":"positive"
+  },
+  {
+    "text":"Considering other options #17",
+    "sentiment":"neutral"
+  },
+  {
+    "text":"Excellent value for the price #18",
+    "sentiment":"positive"
+  },
+  {
+    "text":"Average product performance #19",
+    "sentiment":"neutral"
+  },
+  {
+    "text":"Very poor quality product #20",
+    "sentiment":"negative"
+  },
+  {
+    "text":"Not what I expected at all #21",
+    "sentiment":"negative"
+  },
+  {
+    "text":"Standard delivery time #22",
+    "sentiment":"neutral"
+  },
+  {
+    "text":"Highly recommend to others #23",
+    "sentiment":"positive"
+  },
+  {
+    "text":"Average product performance #24",
+    "sentiment":"neutral"
+  },
+  {
+    "text":"Testing the new features #25",
+    "sentiment":"neutral"
+  },
+  {
+    "text":"Average product performance #26",
+    "sentiment":"neutral"
+  },
+  {
+    "text":"Would not buy again #27",
+    "sentiment":"negative"
+  },
+  {
+    "text":"Very satisfied with the purchase #28",
+    "sentiment":"positive"
+  },
+  {
+    "text":"Considering other options #29",
+    "sentiment":"neutral"
+  },
+  {
+    "text":"Not what I expected at all #30",
+    "sentiment":"negative"
+  },
+  {
+    "text":"Very satisfied with the purchase #31",
+    "sentiment":"positive"
+  },
+  {
+    "text":"Not what I expected at all #32",
+    "sentiment":"negative"
+  },
+  {
+    "text":"Would not buy again #33",
+    "sentiment":"negative"
+  },
+  {
+    "text":"Not what I expected at all #34",
+    "sentiment":"negative"
+  },
+  {
+    "text":"Terrible user experience #35",
+    "sentiment":"negative"
+  },
+  {
+    "text":"Average product performance #36",
+    "sentiment":"neutral"
+  },
+  {
+    "text":"Highly recommend to others #37",
+    "sentiment":"positive"
+  },
+  {
+    "text":"Terrible user experience #38",
+    "sentiment":"negative"
+  },
+  {
+    "text":"Considering other options #39",
+    "sentiment":"neutral"
+  },
+  {
+    "text":"Product quality is outstanding #40",
+    "sentiment":"positive"
+  },
+  {
+    "text":"Waste of time and money #41",
+    "sentiment":"negative"
+  },
+  {
+    "text":"Average product performance #42",
+    "sentiment":"neutral"
+  },
+  {
+    "text":"Would not buy again #43",
+    "sentiment":"negative"
+  },
+  {
+    "text":"Standard delivery time #44",
+    "sentiment":"neutral"
+  },
+  {
+    "text":"Excellent value for the price #45",
+    "sentiment":"positive"
+  },
+  {
+    "text":"Very satisfied with the purchase #46",
+    "sentiment":"positive"
+  },
+  {
+    "text":"Standard delivery time #47",
+    "sentiment":"neutral"
+  },
+  {
+    "text":"Very satisfied with the purchase #48",
+    "sentiment":"positive"
+  },
+  {
+    "text":"Product quality is outstanding #49",
+    "sentiment":"positive"
+  }
+]

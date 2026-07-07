@@ -1,0 +1,18 @@
+text,sentiment,platform
+I absolutely love this product! It's amazing!,positive,facebook
+"Excellent service, highly recommended!",positive,facebook
+Outstanding customer support!,positive,facebook
+Highly impressed with the performance,positive,facebook
+Extremely slow delivery,negative,facebook
+The price seems reasonable,neutral,facebook
+Met the basic requirements,neutral,facebook
+Excellent value for the price #2,positive,facebook
+Very satisfied with the purchase #3,positive,facebook
+Would not buy again #6,negative,facebook
+Very satisfied with the purchase #9,positive,facebook
+Not what I expected at all #21,negative,facebook
+Would not buy again #33,negative,facebook
+Not what I expected at all #34,negative,facebook
+Highly recommend to others #37,positive,facebook
+Terrible user experience #38,negative,facebook
+Excellent value for the price #45,positive,facebook

@@ -1,0 +1,14 @@
+text,sentiment,platform
+Fantastic quality and great value for money #sentiment #twitter,positive,twitter
+Product broke after one day of use #sentiment #twitter,negative,twitter
+Would give zero stars if possible #sentiment #twitter,negative,twitter
+The product arrived yesterday #sentiment #twitter,neutral,twitter
+Posted a review on the app #feedback #sentiment #twitter,neutral,twitter
+Great experience with customer service #1 #sentiment #twitter,positive,twitter
+Testing the new features #12 #sentiment #twitter,neutral,twitter
+Would not buy again #13 #sentiment #twitter,negative,twitter
+Highly recommend to others #23 #sentiment #twitter,positive,twitter
+Average product performance #26 #sentiment #twitter,neutral,twitter
+Would not buy again #43 #sentiment #twitter,negative,twitter
+Standard delivery time #44 #sentiment #twitter,neutral,twitter
+Very satisfied with the purchase #48 #sentiment #twitter,positive,twitter

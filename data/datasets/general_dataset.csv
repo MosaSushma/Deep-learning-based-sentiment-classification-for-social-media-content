@@ -1,0 +1,16 @@
+text,sentiment,platform
+"Poor customer service, rude staff",negative,general
+Not worth the price at all,negative,general
+"False advertising, not as described",negative,general
+"Standard features, nothing special",neutral,general
+Average product for daily use,neutral,general
+It does what it's supposed to do,neutral,general
+No major issues so far,neutral,general
+@company worst support ever #disappointed,negative,general
+Bug in the latest version #frustrated,negative,general
+Highly recommend to others #0,positive,general
+Considering other options #17,neutral,general
+Very poor quality product #20,negative,general
+Very satisfied with the purchase #31,positive,general
+Average product performance #36,neutral,general
+Very satisfied with the purchase #46,positive,general

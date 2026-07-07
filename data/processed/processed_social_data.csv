@@ -1,0 +1,81 @@
+id,text,cleaned_text,platform,original_sentiment,processed_at,word_count,has_hashtags,subreddit
+tweet_0,Very disappointed with the quality #0,very disappointed with the quality 0,twitter,negative,2026-01-21T18:44:51.413119,6,True,
+tweet_1,Very disappointed with the quality #1,very disappointed with the quality 1,twitter,negative,2026-01-21T18:44:51.413167,6,True,
+tweet_2,Product broke after one day of use #2,product broke after one day of use 2,twitter,negative,2026-01-21T18:44:51.413195,8,True,
+tweet_3,Excellent experience from start to finish #3,excellent experience from start to finish 3,twitter,positive,2026-01-21T18:44:51.413207,7,True,
+tweet_4,Very disappointed with the quality #4,very disappointed with the quality 4,twitter,negative,2026-01-21T18:44:51.413217,6,True,
+tweet_5,Complete waste of money #5,complete waste of money 5,twitter,negative,2026-01-21T18:44:51.413227,5,True,
+tweet_6,Worst customer service I've ever had #6,worst customer service i've ever had 6,twitter,negative,2026-01-21T18:44:51.413237,7,True,
+tweet_7,Excellent experience from start to finish #7,excellent experience from start to finish 7,twitter,positive,2026-01-21T18:44:51.413246,7,True,
+tweet_8,Best service ever! Highly recommend! #8,best service ever! highly recommend! 8,twitter,positive,2026-01-21T18:44:51.413259,6,True,
+tweet_9,Best service ever! Highly recommend! #9,best service ever! highly recommend! 9,twitter,positive,2026-01-21T18:44:51.413268,6,True,
+tweet_10,Looking at product reviews #10,looking at product reviews 10,twitter,neutral,2026-01-21T18:44:51.413277,5,True,
+tweet_11,Just tried the new product and it's amazing! #11,just tried the new product and it's amazing! 11,twitter,positive,2026-01-21T18:44:51.413287,9,True,
+tweet_12,Just tried the new product and it's amazing! #12,just tried the new product and it's amazing! 12,twitter,positive,2026-01-21T18:44:51.413297,9,True,
+tweet_13,Excellent experience from start to finish #13,excellent experience from start to finish 13,twitter,positive,2026-01-21T18:44:51.413305,7,True,
+tweet_14,Just tried the new product and it's amazing! #14,just tried the new product and it's amazing! 14,twitter,positive,2026-01-21T18:44:51.413315,9,True,
+tweet_15,Complete waste of money #15,complete waste of money 15,twitter,negative,2026-01-21T18:44:51.413323,5,True,
+tweet_16,Very disappointed with the quality #16,very disappointed with the quality 16,twitter,negative,2026-01-21T18:44:51.413332,6,True,
+tweet_17,The product arrived today #17,the product arrived today 17,twitter,neutral,2026-01-21T18:44:51.413341,5,True,
+tweet_18,Excellent experience from start to finish #18,excellent experience from start to finish 18,twitter,positive,2026-01-21T18:44:51.413365,7,True,
+tweet_19,Best service ever! Highly recommend! #19,best service ever! highly recommend! 19,twitter,positive,2026-01-21T18:44:51.413377,6,True,
+tweet_20,Looking at product reviews #20,looking at product reviews 20,twitter,neutral,2026-01-21T18:44:51.413386,5,True,
+tweet_21,The product arrived today #21,the product arrived today 21,twitter,neutral,2026-01-21T18:44:51.413395,5,True,
+tweet_22,Couldn't be happier with the results! #22,couldn't be happier with the results! 22,twitter,positive,2026-01-21T18:44:51.413404,7,True,
+tweet_23,Excellent experience from start to finish #23,excellent experience from start to finish 23,twitter,positive,2026-01-21T18:44:51.413413,7,True,
+tweet_24,Complete waste of money #24,complete waste of money 24,twitter,negative,2026-01-21T18:44:51.413423,5,True,
+tweet_25,Just received my order #25,just received my order 25,twitter,neutral,2026-01-21T18:44:51.413433,5,True,
+tweet_26,Looking at product reviews #26,looking at product reviews 26,twitter,neutral,2026-01-21T18:44:51.413442,5,True,
+tweet_27,Just received my order #27,just received my order 27,twitter,neutral,2026-01-21T18:44:51.413451,5,True,
+tweet_28,Checking out the new update #28,checking out the new update 28,twitter,neutral,2026-01-21T18:44:51.413460,6,True,
+tweet_29,Very disappointed with the quality #29,very disappointed with the quality 29,twitter,negative,2026-01-21T18:44:51.413468,6,True,
+tweet_30,Looking at product reviews #30,looking at product reviews 30,twitter,neutral,2026-01-21T18:44:51.413477,5,True,
+tweet_31,Product broke after one day of use #31,product broke after one day of use 31,twitter,negative,2026-01-21T18:44:51.413485,8,True,
+tweet_32,Worst customer service I've ever had #32,worst customer service i've ever had 32,twitter,negative,2026-01-21T18:44:51.413494,7,True,
+tweet_33,Complete waste of money #33,complete waste of money 33,twitter,negative,2026-01-21T18:44:51.413504,5,True,
+tweet_34,Checking out the new update #34,checking out the new update 34,twitter,neutral,2026-01-21T18:44:51.413512,6,True,
+tweet_35,Very disappointed with the quality #35,very disappointed with the quality 35,twitter,negative,2026-01-21T18:44:51.413521,6,True,
+tweet_36,Very disappointed with the quality #36,very disappointed with the quality 36,twitter,negative,2026-01-21T18:44:51.413529,6,True,
+tweet_37,Excellent experience from start to finish #37,excellent experience from start to finish 37,twitter,positive,2026-01-21T18:44:51.413537,7,True,
+tweet_38,Looking at product reviews #38,looking at product reviews 38,twitter,neutral,2026-01-21T18:44:51.413546,5,True,
+tweet_39,The product arrived today #39,the product arrived today 39,twitter,neutral,2026-01-21T18:44:51.413554,5,True,
+tweet_40,Just received my order #40,just received my order 40,twitter,neutral,2026-01-21T18:44:51.413562,5,True,
+tweet_41,Looking at product reviews #41,looking at product reviews 41,twitter,neutral,2026-01-21T18:44:51.413572,5,True,
+tweet_42,Just tried the new product and it's amazing! #42,just tried the new product and it's amazing! 42,twitter,positive,2026-01-21T18:44:51.413580,9,True,
+tweet_43,Just received my order #43,just received my order 43,twitter,neutral,2026-01-21T18:44:51.413589,5,True,
+tweet_44,Complete waste of money #44,complete waste of money 44,twitter,negative,2026-01-21T18:44:51.413597,5,True,
+tweet_45,Considering this product #45,considering this product 45,twitter,neutral,2026-01-21T18:44:51.413605,4,True,
+tweet_46,"Terrible experience, would not recommend #46","terrible experience, would not recommend 46",twitter,negative,2026-01-21T18:44:51.413613,6,True,
+tweet_47,"Terrible experience, would not recommend #47","terrible experience, would not recommend 47",twitter,negative,2026-01-21T18:44:51.413622,6,True,
+tweet_48,Product broke after one day of use #48,product broke after one day of use 48,twitter,negative,2026-01-21T18:44:51.413631,8,True,
+tweet_49,Considering this product #49,considering this product 49,twitter,neutral,2026-01-21T18:44:51.413640,4,True,
+reddit_post_0,"Toxic community, not helpful at all. #0","toxic community, not helpful at all. #0",reddit,negative,2026-01-21T18:44:51.413655,7,,machinelearning
+reddit_post_1,"Toxic community, not helpful at all. #1","toxic community, not helpful at all. #1",reddit,negative,2026-01-21T18:44:51.413669,7,,datascience
+reddit_post_2,Crossposting from another sub. #2,crossposting from another sub. #2,reddit,neutral,2026-01-21T18:44:51.413680,5,,webdev
+reddit_post_3,Looking for recommendations. #3,looking for recommendations. #3,reddit,neutral,2026-01-21T18:44:51.413690,4,,webdev
+reddit_post_4,Discussion about recent changes. #4,discussion about recent changes. #4,reddit,neutral,2026-01-21T18:44:51.413698,5,,machinelearning
+reddit_post_5,Has anyone tried this approach? #5,has anyone tried this approach? #5,reddit,neutral,2026-01-21T18:44:51.413706,6,,machinelearning
+reddit_post_6,This is exactly what I needed! Great solution. #6,this is exactly what i needed! great solution. #6,reddit,positive,2026-01-21T18:44:51.413714,9,,webdev
+reddit_post_7,Solved my problem in minutes. Thanks! #7,solved my problem in minutes. thanks! #7,reddit,positive,2026-01-21T18:44:51.413723,7,,machinelearning
+reddit_post_8,"Toxic community, not helpful at all. #8","toxic community, not helpful at all. #8",reddit,negative,2026-01-21T18:44:51.413732,7,,python
+reddit_post_9,Upvoted! This deserves more attention. #9,upvoted! this deserves more attention. #9,reddit,positive,2026-01-21T18:44:51.413740,6,,webdev
+reddit_post_10,This sub has really gone downhill. #10,this sub has really gone downhill. #10,reddit,negative,2026-01-21T18:44:51.413748,7,,datascience
+reddit_post_11,Upvoted! This deserves more attention. #11,upvoted! this deserves more attention. #11,reddit,positive,2026-01-21T18:44:51.413757,6,,python
+reddit_post_12,Downvoted for misleading information. #12,downvoted for misleading information. #12,reddit,negative,2026-01-21T18:44:51.413765,5,,python
+reddit_post_13,Crossposting from another sub. #13,crossposting from another sub. #13,reddit,neutral,2026-01-21T18:44:51.413773,5,,machinelearning
+reddit_post_14,"Toxic community, not helpful at all. #14","toxic community, not helpful at all. #14",reddit,negative,2026-01-21T18:44:51.413781,7,,machinelearning
+reddit_post_15,Mods need to do better about spam. #15,mods need to do better about spam. #15,reddit,negative,2026-01-21T18:44:51.413795,8,,python
+reddit_post_16,Post removed for no good reason. #16,post removed for no good reason. #16,reddit,negative,2026-01-21T18:44:51.413804,7,,python
+reddit_post_17,What are your thoughts on this? #17,what are your thoughts on this? #17,reddit,neutral,2026-01-21T18:44:51.413811,7,,datascience
+reddit_post_18,"Toxic community, not helpful at all. #18","toxic community, not helpful at all. #18",reddit,negative,2026-01-21T18:44:51.413819,7,,machinelearning
+reddit_post_19,This is exactly what I needed! Great solution. #19,this is exactly what i needed! great solution. #19,reddit,positive,2026-01-21T18:44:51.413826,9,,datascience
+reddit_post_20,"Toxic community, not helpful at all. #20","toxic community, not helpful at all. #20",reddit,negative,2026-01-21T18:44:51.413834,7,,machinelearning
+reddit_post_21,Solved my problem in minutes. Thanks! #21,solved my problem in minutes. thanks! #21,reddit,positive,2026-01-21T18:44:51.413841,7,,machinelearning
+reddit_post_22,Has anyone tried this approach? #22,has anyone tried this approach? #22,reddit,neutral,2026-01-21T18:44:51.413849,6,,machinelearning
+reddit_post_23,Upvoted! This deserves more attention. #23,upvoted! this deserves more attention. #23,reddit,positive,2026-01-21T18:44:51.413856,6,,webdev
+reddit_post_24,This sub has really gone downhill. #24,this sub has really gone downhill. #24,reddit,negative,2026-01-21T18:44:51.413864,7,,webdev
+reddit_post_25,This sub has really gone downhill. #25,this sub has really gone downhill. #25,reddit,negative,2026-01-21T18:44:51.413871,7,,datascience
+reddit_post_26,Looking for recommendations. #26,looking for recommendations. #26,reddit,neutral,2026-01-21T18:44:51.413879,4,,python
+reddit_post_27,Downvoted for misleading information. #27,downvoted for misleading information. #27,reddit,negative,2026-01-21T18:44:51.413891,5,,python
+reddit_post_28,Post removed for no good reason. #28,post removed for no good reason. #28,reddit,negative,2026-01-21T18:44:51.413900,7,,machinelearning
+reddit_post_29,Solved my problem in minutes. Thanks! #29,solved my problem in minutes. thanks! #29,reddit,positive,2026-01-21T18:44:51.413907,7,,python

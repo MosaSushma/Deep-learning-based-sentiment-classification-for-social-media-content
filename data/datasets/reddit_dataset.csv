@@ -1,0 +1,30 @@
+text,sentiment,platform
+Best purchase I've ever made!,positive,reddit
+Perfect solution for my needs,positive,reddit
+Exceeded all my expectations,positive,reddit
+Wonderful experience from start to finish,positive,reddit
+"Terrible experience, would not recommend",negative,reddit
+Complete waste of money,negative,reddit
+Just tried the new feature #excited,positive,reddit
+Looking forward to the update #waiting,neutral,reddit
+Server down again #annoyed,negative,reddit
+Checking out the new release #curious,neutral,reddit
+Best update so far! #impressed,positive,reddit
+Product quality is outstanding #4,positive,reddit
+Testing the new features #5,neutral,reddit
+Standard delivery time #7,neutral,reddit
+Considering other options #10,neutral,reddit
+Terrible user experience #11,negative,reddit
+Great experience with customer service #14,positive,reddit
+Excellent value for the price #18,positive,reddit
+Average product performance #19,neutral,reddit
+Standard delivery time #22,neutral,reddit
+Average product performance #24,neutral,reddit
+Testing the new features #25,neutral,reddit
+Considering other options #29,neutral,reddit
+Not what I expected at all #30,negative,reddit
+Not what I expected at all #32,negative,reddit
+Terrible user experience #35,negative,reddit
+Waste of time and money #41,negative,reddit
+Average product performance #42,neutral,reddit
+Product quality is outstanding #49,positive,reddit
