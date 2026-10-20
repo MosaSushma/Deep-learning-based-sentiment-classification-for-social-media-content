@@ -669,6 +669,9 @@ def model_info():
 # ============================================
 # PRODUCTION CONFIGURATION FOR RENDER
 # ============================================
+# Gunicorn looks for a variable named 'application' to avoid conflict with the 'app' folder
+application = app
+
 if __name__ == '__main__':
     print("\n" + "=" * 70)
     print("✅ DEEP LEARNING CLASSIFICATION ENGINE READY")
