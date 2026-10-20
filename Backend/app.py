@@ -507,10 +507,6 @@ def predict_image():
 
 @app.route('/api/fetch-social', methods=['POST'])
 def fetch_social():
-    """
-    Fetch text content from a URL using Open Graph meta tags and HTML parsing.
-    Works with GitHub, YouTube, Wikipedia, HackerNews, and most public pages.
-    """
     try:
         data = request.get_json()
         url = data.get('url', '').strip()
@@ -518,7 +514,6 @@ def fetch_social():
         if not url:
             return jsonify({'success': False, 'error': 'No URL provided'}), 400
 
-        # Ensure URL has protocol
         if not url.startswith(('http://', 'https://')):
             url = 'https://' + url
 
@@ -541,42 +536,35 @@ def fetch_social():
 
         extracted_text = None
 
-        # 1. Open Graph description
         og_desc = soup.find('meta', property='og:description')
         if og_desc and og_desc.get('content'):
             extracted_text = og_desc['content'].strip()
 
-        # 2. Twitter card description
         if not extracted_text:
             twitter_desc = soup.find('meta', attrs={'name': 'twitter:description'})
             if twitter_desc and twitter_desc.get('content'):
                 extracted_text = twitter_desc['content'].strip()
 
-        # 3. Regular description meta
         if not extracted_text:
             desc = soup.find('meta', attrs={'name': 'description'})
             if desc and desc.get('content'):
                 extracted_text = desc['content'].strip()
 
-        # 4. og:title
         if not extracted_text:
             og_title = soup.find('meta', property='og:title')
             if og_title and og_title.get('content'):
                 extracted_text = og_title['content'].strip()
 
-        # 5. <title> tag
         if not extracted_text:
             title = soup.find('title')
             if title:
                 extracted_text = title.get_text().strip()
 
-        # 6. First <h1>
         if not extracted_text:
             h1 = soup.find('h1')
             if h1:
                 extracted_text = h1.get_text().strip()
 
-        # 7. First paragraph
         if not extracted_text:
             paragraphs = soup.find_all('p')
             for p in paragraphs[:3]:
@@ -617,9 +605,6 @@ def fetch_social():
 
 @app.route('/api/live-feed', methods=['GET'])
 def live_feed():
-    """
-    Fetch LIVE social media posts and analyze sentiment in real-time.
-    """
     try:
         all_posts = []
 
@@ -681,6 +666,9 @@ def model_info():
     })
 
 
+# ============================================
+# PRODUCTION CONFIGURATION FOR RENDER
+# ============================================
 if __name__ == '__main__':
     print("\n" + "=" * 70)
     print("✅ DEEP LEARNING CLASSIFICATION ENGINE READY")
@@ -703,4 +691,6 @@ if __name__ == '__main__':
     print("   • Hacker News")
     print("\n" + "=" * 70)
 
-    app.run(host='0.0.0.0', port=5000, debug=True)
+    # Render uses a dynamic PORT env variable
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host='0.0.0.0', port=port, debug=False)
